@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Snake</string>
+    <string name="puntos">Puntos</string>
+</resources>
